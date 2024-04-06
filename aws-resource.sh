@@ -17,3 +17,4 @@ echo "print list of lambda functions"
 aws lambda list-functions
 echo "print list of iam users"
 aws iam list-users
+echo "print all"
